@@ -29,3 +29,7 @@
 .menu-btn span:after {
   top: 8px;
 }
+
+#menu-btn-check {
+  display: none;
+}
